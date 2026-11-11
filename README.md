@@ -1,4 +1,4 @@
-This repository exposes US Emergency Alert System exposure using the Shodan search engine.
+This repository discloses US Emergency Alert System exposure using the Shodan search engine.
 
 This project is an exercise of Free Speech under the US Constitution First Amendment.
 
