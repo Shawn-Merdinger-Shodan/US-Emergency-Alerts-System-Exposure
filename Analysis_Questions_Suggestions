@@ -6,3 +6,7 @@ On-going ad-hoc sugestions
 3.  eas@radiolists.net posts from shawnmer@gmail.com circa April 2020, August 2022.  Note eas@radiolists.net ban of shawnmer@gmail.com from posting to mailinglist.
 4.  Committee hearing statements blaming customers for insecure configurations circa 2012 wrt "zombie alerts" from Dr. Edward "Ed" Czarnecki Vice President of Global and Government Affairs at Digital Alert Systems
 5.  Review Monroe Electronics COO RETALIATORY letter to federal court disparaging Shawn Merdinger as "Self-proclaimed security researcher" wrt case United States v. MERDINGER (7:20-cr-00017)
+6.  Technical differences of web interfaces of exposed EAS.  For example, Monroe Electronics shows the device assigned serial number.
+7.  Techniacl details of web server versions in EAS.  What software (apache, lighttpd, other)?
+8.  What known vulns with CVEs exist in the three vendor offerings?
+9.  What percentage of customers are running which software version (obtainable from web interface for Viavi and Monroe Electronics).
