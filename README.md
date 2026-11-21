@@ -10,8 +10,8 @@ Congressional committee reports and transcripts wrt past "zombie" EAS alerts are
 
 Repository contains URLs for Shodan searches, FCC response to security researcher comment wrt security posture recommendations, URLs to prior media coverage, eBay "EAS for sale" examples to illustrate supply-chain and adversary acquisition risks, distribution by ISP and .edu and sundry screenshots, as appropriate.
 
-Note current no direct IP addresses are disclosed, other than in sample EAS screenshots to illustrate real-world exposure and web interface characteristics.  Previous disclosure of IP addresses in included in the repository as archived posts to public EAS mailinglist in 2020 to raise awareness to the US broadcaster technical community to reduce public Internet EAS exposure.
+Note no current direct exposed EAS IP addresses are disclosed, other than in sample EAS screenshots to illustrate real-world exposure and web interface characteristics.  Repository contains PDF of previous disclosure of IP addresses as archived posts to public EAS mailinglist in 2020 intended to raise awareness to the US broadcaster technical community with the goal of reducing public Internet EAS exposure.
 
-Barriers to potential adversary misuse of these data entail Shodan itself requiring a registered account for basic searches, and a paid-tier account for more expansive search capability, of which I recommend (note that I have zero financial ties to Shodan and do not benefit financially from this recommendation).
+Additional technical barriers to potential adversary misuse of these data entail Shodan itself requiring a registered account for basic searches, and a paid-tier account for more expansive search capability, of which I recommend (note that I have zero financial ties to Shodan and do not benefit financially from this recommendation).
 
 Shawn Merdinger
